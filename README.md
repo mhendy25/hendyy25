@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Improving my SQL, Python, and Tableau skills**
 
+- 👨‍💻 My SQL [Hackerrank profile](https://www.hackerrank.com/mmh10013)
+
 - 💬 Ask me about **Statistics & Data Science**
 
 - 📫 How to reach me **hendy@nyu.edu**
